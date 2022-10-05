@@ -21,6 +21,7 @@ theme:
 extra:
   generator: false
 repo_url: https://github.com/xiaoioi/mkdocs-githubActions
+edit_uri: /edit/main/docs/
 plugins:
   - git-revision-date-localized:
       enable_creation_date: true
