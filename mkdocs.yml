@@ -1,17 +1,10 @@
-site_name: 
+site_name: GithubActions搭建mkdocs-material
 theme:
   name: material
   language: zh
   features:
     - navigation.instant
   palette:
-
-    # Palette toggle for automatic mode
-    - media: "(prefers-color-scheme)"
-      toggle:
-        icon: material/brightness-auto
-        name: Switch to light mode
-
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default 
